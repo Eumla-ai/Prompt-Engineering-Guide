@@ -31,7 +31,7 @@ A tuneable policy LM is trained to generate the stimulus/hint. Seeing more use o
 
 The figure below shows how Directional Stimulus Prompting compares with standard prompting. The policy LM can be small and optimized to generate the hints that guide a black-box frozen LLM.
 
-![](../img/dsp.jpeg)
+![](../Image%20Resources/dsp.jpeg)
 
 Full example coming soon!
 
@@ -42,7 +42,7 @@ Full example coming soon!
 
 The ReAct framework can allow LLMs to interact with external tools to retrieve additional information that leads to more reliable and factual responses.
 
-![](../img/react.png)
+![](../Image%20Resources/react.png)
 
 Full example coming soon!
 
@@ -53,7 +53,7 @@ Full example coming soon!
 
 The multimodal CoT model (1B) outperforms GPT-3.5 on the ScienceQA benchmark.
 
-![](../img/multimodal-cot.png)
+![](../Image%20Resources/multimodal-cot.png)
 
 Further reading:
 - [Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/abs/2302.14045) (Feb 2023)
