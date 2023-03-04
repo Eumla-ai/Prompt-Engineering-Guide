@@ -21,7 +21,7 @@ Chain-of-thought (CoT) methods rely on a fixed set of human-annotated exemplars.
 
 Below is an illustration of the approach. The first step is to query the LLM with or without a few CoT examples. *k* possible answers are generated for a set of training questions. An uncertainty metric is calculated based on the *k* answers (disagreement used). The most uncertain questions are selected for annotation by humans. The new annotated exemplars are then used to infer each question. 
 
-![](../img/active-prompt.png)
+![](../Image%20Resources/active-prompt.png)
 
 ---
 ## Directional Stimulus Prompting
