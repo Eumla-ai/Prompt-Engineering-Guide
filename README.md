@@ -7,3 +7,10 @@ At its core, prompt engineering is all about improving our understanding of the 
 Given the growing interest in developing with LLMs, we are thrilled to present this cutting-edge prompt engineering guide. Packed with the latest papers, learning guides, lectures, references, and tools related to prompt engineering, this comprehensive resource is a must-have for anyone looking to stay on the forefront of this rapidly advancing field.
 
 So whether you're a seasoned researcher or a curious developer, we invite you to join us on this exciting journey of discovery and innovation. With the power of prompt engineering at your fingertips, the possibilities are truly limitless. Happy prompting!
+
+
+```
+git status
+git add
+git commit
+```
